@@ -1,8 +1,10 @@
 {
   "name": "node-pixel-pusher",
-  "version": "0.0.0",
-  "description": "",
-  "keywords": [],
+  "version": "1.0.0",
+  "description": "A zero-dependency Node.js Pixel Pusher library designed to achieve highest full update refresh rate.",
+  "keywords": [
+    "pixel", "pusher", "led", "pixelpusher"
+  ],
   "main": "dist/index.umd.js",
   "module": "dist/index.es5.js",
   "typings": "dist/types/pixel-pusher.d.ts",
