@@ -1,6 +1,6 @@
 {
   "name": "node-pixel-pusher",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A zero-dependency Node.js Pixel Pusher library designed to achieve highest full update refresh rate.",
   "keywords": [
     "pixel", "pusher", "led", "pixelpusher"
@@ -14,7 +14,7 @@
   "author": "jmswrnr <jmswrnr@users.noreply.github.com>",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/jmswrnr/node-pixel-pusher"
   },
   "license": "MIT",
   "engines": {
