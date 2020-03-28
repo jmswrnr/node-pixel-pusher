@@ -1,6 +1,6 @@
 # node-pixel-pusher
 
-A zero-dependency Node.js Pixel Pusher library designed to achieve highest full update refresh rate.
+A zero-dependency Node.js Pixel Pusher library designed for a fast full-update refresh rate.
 
 ## Simple Example
 
